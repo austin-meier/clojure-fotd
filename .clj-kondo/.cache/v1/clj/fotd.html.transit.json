@@ -1,0 +1,1 @@
+["^ ","~$not-found",["^ ","~:row",5,"~:col",1,"~:fixed-arities",["~#set",[0]],"~:name","^0","~:ns","~$fotd.html","~:top-ns","^7","~:arities",["^ ","~i0",["^ ","~:ret","~:string","~:arglist-str","[]"]],"~:type","~:fn"],"~:filename","/Users/austin/clojure/fotd/src/fotd/html.clj"]

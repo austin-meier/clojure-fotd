@@ -1,0 +1,2 @@
+(ns fotd.logic)
+
